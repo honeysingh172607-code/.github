@@ -22,21 +22,20 @@
 </div>
 
 Core OSS libraries:
+
 - [`LangChain`](https://github.com/langchain-ai/langchain) and [`LangChain.js`](https://github.com/langchain-ai/langchainjs) – reusable components and integrations for building LLM applications
 - [`LangGraph`](https://github.com/langchain-ai/langgraph) and [`LangGraph.js`](https://github.com/langchain-ai/langgraphjs) – build LLM agents as graphs
 - [`Deep Agents`](https://github.com/langchain-ai/deepagents) and [`Deep Agents.js`](https://github.com/langchain-ai/deepagentsjs) – agents that can plan, use subagents, and leverage file systems for complex tasks
 
 Commercial Platform:
+
 - [`LangSmith`](https://docs.langchain.com/langsmith/home) – platform for building and monitoring production-grade LLM applications
 
 OSS extensions and apps:
+
+- [`Deep Agents Code`](https://docs.langchain.com/oss/python/deepagents/code/overview) - open source coding agent in your terminal, similar to Claude Code or Cursor, powered by any LLM
 - [`Open SWE`](https://github.com/langchain-ai/open-swe) – open source asynchronous coding agent
 - [`MCP Adapters`](https://github.com/langchain-ai/langchain-mcp-adapters) – make MCP tools compatible with LangChain and LangGraph
-- [`Open Canvas`](https://github.com/langchain-ai/open-canvas) – document & chat-based UX for writing code or markdown. Inspired by OpenAI's Canvas (TypeScript)
-- [`OpenGPTs`](https://github.com/langchain-ai/opengpts) – open source version of OpenAI's GPTs API (Python)
-- [`Email assistant`](https://github.com/langchain-ai/executive-ai-assistant) – AI assistant that helps you maintain your emails (Python)
-- [`LangChain + Next.js template`](https://github.com/langchain-ai/langchain-nextjs-template) – template LangChain.js + Next.js application 
-- [`Social media agent`](https://github.com/langchain-ai/social-media-agent) – agent for sourcing, curating, and scheduling social media posts with human-in-the-loop (TypeScript)
 - [`Agent Protocol`](https://github.com/langchain-ai/agent-protocol) – our attempt at codifying the framework-agnostic APIs that are needed to serve LLM agents in production
 
 ## Learn more
