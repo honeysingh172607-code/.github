@@ -37,6 +37,7 @@ OSS extensions and apps:
 - [`Open SWE`](https://github.com/langchain-ai/open-swe) – open source asynchronous coding agent
 - [`MCP Adapters`](https://github.com/langchain-ai/langchain-mcp-adapters) – make MCP tools compatible with LangChain and LangGraph
 - [`Agent Protocol`](https://github.com/langchain-ai/agent-protocol) – our attempt at codifying the framework-agnostic APIs that are needed to serve LLM agents in production
+- [`OpenWiki`](https://github.com/langchain-ai/openwiki) - CLI agent for codebase and personal memory wiki generation & maintenance.
 
 ## Learn more
 
