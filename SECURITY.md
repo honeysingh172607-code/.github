@@ -187,7 +187,8 @@ Severity for open-source vulnerabilities is based on **realistic impact in commo
 
 Bounties are awarded at LangChain’s discretion based on validated impact and severity. Reward amounts may vary depending on exploitability, report quality, and overall risk.
 
-### Payment Methods
+### Payment MethodsSECURITY.md
+
 
 LangChain currently supports the following payment options:
 
